@@ -1,0 +1,80 @@
+{
+  "Breakfast": [
+    {
+      "id": 1,
+      "Meal": "Milk",
+      "Carbohydrates": "22g",
+      "Calorie": "20g",
+      "Proteins": "14g",
+      "Fat": "20g"
+    },
+    {
+      "id": 2,
+      "Meal": "Coffee",
+      "Carbohydrates": "22g",
+      "Calorie": "20g",
+      "Proteins": "14g",
+      "Fat": "20g"
+    },
+    {
+      "Meal": "Fish ",
+      "Carbohydrates": "2g",
+      "Calorie": "1g",
+      "Proteins": "3g",
+      "Fat": "6g",
+      "id": 3
+    }
+  ],
+  "Lunch": [
+    {
+      "Meal": "Paneer",
+      "Carbohydrates": "30g",
+      "Calorie": "10g",
+      "Proteins": "15g",
+      "Fat": "50g",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "Meal": "Daal",
+      "Carbohydrates": "22g",
+      "Calorie": "20g",
+      "Proteins": "20g",
+      "Fat": "20g"
+    },
+    {
+      "Meal": "Chicken",
+      "Carbohydrates": "100g",
+      "Calorie": "20g",
+      "Proteins": "14g",
+      "Fat": "13",
+      "id": 6
+    }
+  ],
+  "Dinner": [
+    {
+      "id": 7,
+      "Meal": "Roti",
+      "Carbohydrates": "22g",
+      "Calorie": "15g",
+      "Proteins": "20g",
+      "Fat": "20g"
+    },
+    {
+      "id": 8,
+      "Meal": "Rich",
+      "Carbohydrates": "22g",
+      "Calorie": "20g",
+      "Proteins": "13g",
+      "Fat": "20g"
+    },
+    {
+      "id": 9,
+      "Meal": "Daal",
+      "Carbohydrates": "22g",
+      "Calorie": "10g",
+      "Proteins": "20g",
+      "Fat": "20g"
+    }
+  ]
+}
